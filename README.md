@@ -21,7 +21,7 @@ To run this project, you need to have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tictactoe.git
+   git clone https://github.com/TEM0N/WindowsForms.git
    cd tictactoe
 2. Open the solution file (.sln) in Visual Studio.
 3. Build the project to restore dependencies.
